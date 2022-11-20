@@ -1,6 +1,6 @@
 # Playground for OpenAI API - Node.js
 
-This is a playground based on the openai quickstart for testing the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+This is a playground based on the [openai quickstart tutorial](https://beta.openai.com/docs/quickstart) for testing the OpenAI API. It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
 ## Setup
 
